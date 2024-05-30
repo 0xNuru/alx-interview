@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """Writing a function for Pascal's Triangle"""
 
