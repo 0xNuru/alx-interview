@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """UTF-8 Validation task"""
 
@@ -39,4 +38,3 @@ def validUTF8(data):
         return True
 
     return False
-
