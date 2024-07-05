@@ -1,0 +1,3 @@
+# 0x05-nqueens
+
+Author 0xNuru
